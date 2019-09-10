@@ -1,7 +1,7 @@
 
 ## Background
 
-Gps coordinates are collected from mobil devices along a road in a residential area. The road is split into three sections, labelled by the column poi_sequence, which is a sequence number of the road section (the sequence numbers are -1,0, or 1). There are two billboards in sequence 0, one facing east and the other facing west. Devices who are seen in sequence -1, then 0 and then 1 are travelling east.  Devices with the reverse order are therefore travelling west.
+Gps coordinates (simulated) are collected from mobil devices along a road in a residential area. The road is split into three sections, labelled by the column poi_sequence, which is a sequence number of the road section (the sequence numbers are -1,0, or 1). There are two billboards in sequence 0, one facing east and the other facing west. Devices who are seen in sequence -1, then 0 and then 1 are travelling east.  Devices with the reverse order are therefore travelling west.
 
 ## Challenges
 
